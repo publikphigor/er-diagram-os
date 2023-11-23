@@ -9,14 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.8",
     "@vue-flow/background": "^1.2.0",
     "@vue-flow/controls": "^1.1.0",
     "@vue-flow/core": "^1.22.2",
-    "@vue-flow/minimap": "^1.1.1"
+    "@vue-flow/minimap": "^1.1.1",
+    "vue": "^3.3.8"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.0",
+    "sass": "^1.69.5",
     "vite": "^5.0.0"
   }
 }
